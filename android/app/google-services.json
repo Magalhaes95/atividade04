@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920627510337",
+    "project_id": "devwebmatheusprojeto",
+    "storage_bucket": "devwebmatheusprojeto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920627510337:android:4c16f116830da3994c5ac0",
+        "android_client_info": {
+          "package_name": "com.example.databaseflutterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4PekVZwuye0lcKIpvbKQ05z1WQRCc6CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
